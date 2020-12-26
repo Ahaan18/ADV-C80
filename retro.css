@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+#sort{
+    display:none;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+#submit{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+input{
+    margin:10px;
+    width:170px;
+}
+#empty{
+  border:1px solid greenyellow;
+  background-color: lawngreen;
+  border-radius: 10px;
+  width: 50%;
+  padding: 10px;
+}
+#nocomma{
+    border:1px solid red;
+    background-color: maroon;
+    border-radius: 10px;
+    width: 50%;
+    padding: 10px;
+}
